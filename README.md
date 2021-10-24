@@ -12,7 +12,7 @@
 <table><tr><td valign="top" width="25%">
     
 <div align="center">
-  ### Language
+  <b>Language</b><br>
   <!-- C --><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
   <!-- C++ --><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <!-- Python --><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>  
