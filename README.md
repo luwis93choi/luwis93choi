@@ -16,7 +16,7 @@
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
-### AI/ML  
+### Language  
 <div align="center">  
 </div>
 
@@ -28,7 +28,7 @@
 
 
 
-### Backend  
+### AI/ML  
 <div align="center">  
 </div>
 
@@ -56,14 +56,8 @@
 <br/>  
 
 
-## Connect with me  
-  
-
-<br/>  
-
-
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luwis93choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luwis93choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" theme="tokyonight" /></div>  
 
 <br/>  
 
