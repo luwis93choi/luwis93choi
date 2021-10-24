@@ -57,7 +57,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luwis93choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" theme="tokyonight" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luwis93choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%"/></div>  
+
+![Byung CHan Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luwis93choi&count_private=true&theme=tokyonight&show_icons=true&style="width: 100%")
 
 <br/>  
 
