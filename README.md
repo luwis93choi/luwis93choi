@@ -2,6 +2,10 @@ Research Area
 - Deep Learning-based Visual Odometry
 - Deep Learning-based Lane Following Assist using Internal Simulation
 
+Previous Work Experience
+- Samsung Software Membership : HW Student Engineer (2014 ~ 2015)
+- Republic of Korea Navy : Navigation/Operation Officer - LT. Junior Grade (2016 ~ 2019)
+
 Platforms & Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
