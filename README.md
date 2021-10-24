@@ -59,5 +59,3 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=luwis93choi&&style=flat-square" align="center" />
 </div>  
-
-![Byung CHan Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luwis93choi&count_private=true&theme=tokyonight&&show_icons=true)
