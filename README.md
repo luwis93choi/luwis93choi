@@ -9,8 +9,7 @@
 - Republic of Korea Navy : Navigation/Operation Officer - LT. Junior Grade (2016 ~ 2019)  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
+<table><tr><td valign="top" width="25%">
 ### Language  
 <div align="center">  
 </div>
@@ -19,10 +18,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
-</td><td valign="top" width="33%">
-
-
-
+</td><td valign="top" width="25%">
 ### AI/ML  
 <div align="center">  
 </div>
@@ -33,14 +29,12 @@
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
   
-</td><td valign="top" width="33%">
-
+</td><td valign="top" width="25%">
 ### HW/Robotics  
 <div align="center">    
 </div>
 
-</td><td valign="top" width="33%">
-  
+</td><td valign="top" width="25%">
 ### Web/IoT  
 <div align="center">    
 </div>
