@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Luwis Choi (Byung Chan Choi)
-- 👀 I’m currently a graduate student at Hanyang University ICSL (Intelligent Communication System Lab)
-- 🌱 I’m working on Deep Reinforcement Learning-based Mapless Robot Navigation in Unknown Dynamic Environment.
-- 💞️ I’m looking to collaborate on robot navigation in unknown dynamic environment, deep learning-based robot control, and deep learning-based visual odometry
-- 📫 How to reach me : luwis93@hanyang.ac.kr
+Research Area
+- Deep Learning-based Visual Odometry
+- Deep Learning-based Lane Following Assist using Internal Simulation
+
+Platforms & Languages
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
