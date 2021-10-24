@@ -1,16 +1,7 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">My Name is Byung Chan Choi (Luwis)</div>  
-  
 
 ### <div align="center">"Deep Learning + Robotics" Researcher</div>  
   
-
-
-
 ### Research Area  
 - Deep Learning-based Visual Odometry  
   
