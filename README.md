@@ -1,4 +1,3 @@
-### <div align="center">My Name is Byung Chan Choi (Luwis)</div>  
 ### <div align="center">"Deep Learning + Robotics" Researcher</div>  
   
 ### Research Area  
