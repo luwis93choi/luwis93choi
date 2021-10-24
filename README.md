@@ -19,6 +19,7 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   
 </td><td valign="top" width="25%">
+  
 ### AI/ML  
 <div align="center">  
 </div>
@@ -30,11 +31,13 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) 
   
 </td><td valign="top" width="25%">
+  
 ### HW/Robotics  
 <div align="center">    
 </div>
 
 </td><td valign="top" width="25%">
+  
 ### Web/IoT  
 <div align="center">    
 </div>
