@@ -10,9 +10,6 @@
 - Samsung Software Membership : HW Student Engineer (2014 ~ 2015)  
 - Republic of Korea Navy : Navigation/Operation Officer - LT. Junior Grade (2016 ~ 2019)  
 
-<br/>  
-
-
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
 
@@ -53,30 +50,12 @@
   
 </td></tr></table>  
 
-<br/>  
-
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=luwis93choi&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" theme=tokyonight/></div>  
 
-<br/>  
-
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=luwis93choi&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
 
 ![Byung CHan Choi's GitHub stats](https://github-readme-stats.vercel.app/api?username=luwis93choi&count_private=true&theme=tokyonight&&show_icons=true)
