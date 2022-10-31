@@ -52,10 +52,12 @@
 
 ## Lecture Materials
 ### Visual Odometry
-[Machine Learning Basics](https://github.com/luwis93choi/Lecture-Materials-/blob/main/ML2020%20Overview.pdf) <br>
 [Visual Odometry Intro 01 - Introduction](https://github.com/luwis93choi/Lecture-Materials-/blob/main/ViT-LSTM%2001%20Introduction.pdf) <br>
 [Visual Odometry Intro 02 - Classical Monocular Visual Odometry](https://github.com/luwis93choi/Lecture-Materials-/blob/main/ViT-LSTM%2003%20Classical%20VO%20Intro%2002%20-%20Classical%20Monocular%20Visual%20Odometry.pdf) <br>
 [Visual Odometry Intro 03 - Classical Monocular VO OpenCV Implementation](https://github.com/luwis93choi/Lecture-Materials-/blob/main/ViT-LSTM%2003%20Classical%20VO%20Intro%2003%20-%20Classical%20Monocular%20VO%20OpenCV%20Implementation.pdf) <br>
+
+### Machine Learning / Deep Learning
+[Machine Learning Basics](https://github.com/luwis93choi/Lecture-Materials-/blob/main/ML2020%20Overview.pdf) <br>
 [WSL Setup for Deep Learning](https://github.com/luwis93choi/Lecture-Materials-/blob/main/WSL%20Setup%20for%20Deep%20Learning.pptx) <br>
 [딥러닝 학습 전략 수립 - KOR](https://github.com/luwis93choi/Lecture-Materials-/blob/main/%EB%94%A5%EB%9F%AC%EB%8B%9D%20%ED%95%99%EC%8A%B5%20%EC%A0%84%EB%9E%B5%20%EC%88%98%EB%A6%BD.pdf) <br>
 
